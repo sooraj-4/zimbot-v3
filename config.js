@@ -8,7 +8,7 @@
 //▮
 //▮REPORT ABUSE OF THIS SOFTWARE EMAIL US
 //▮reinhardtuna@mail.uk
-//▮WHATSAPP US : +44 7441 437150
+//▮WHATSAPP US : +91 7034 685001
 //▮YOUTUBE CHANNELL: https://youtube.com/c/DRIPSOFC
 //▮
 //╰▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
@@ -37,10 +37,10 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['27634090203','']
-global.premium = ['27634090203','918188019676']
+global.owner = ['917034685001','']
+global.premium = ['917034685001','917034685001']
 global.botname = 'ZIM BOT INC'
-global.ownername = 'DRIPS'
+global.ownername = 'Christy'
 global.group1 = 'https://chat.whatsapp.com/EFsb8RCXV4jLEFk4eAcA1A'
 global.group2 = 'https://chat.whatsapp.com/HSfcYU13g5C8GxINWwSWoA'
 global.packname = 'ZIM BOT INC'
@@ -97,8 +97,8 @@ global.limitawal = {
 }
 global.thumb = fs.readFileSync('./lib/hisoka.jpg')  
 global.bc = fs.readFileSync('./lib/bc.jpg')
-global.visoka = { url: 'https://i.imgur.com/LbmTdhf.mp4' }
-global.vid = { url: 'https://i.imgur.com/LbmTdhf.mp4' }
+global.visoka = { url: 'https://i.imgur.com/j6XRuM2.mp4' }
+global.vid = { url: 'https://i.imgur.com/j6XRuM2.mp4' }
 
 //—————「 Set Random Image Menu 」—————//
 
